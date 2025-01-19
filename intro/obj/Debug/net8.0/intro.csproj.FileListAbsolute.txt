@@ -1,0 +1,14 @@
+/Users/konstantin/ComputerScience/Projects/ConsoleAppTest/intro/bin/Debug/net8.0/intro
+/Users/konstantin/ComputerScience/Projects/ConsoleAppTest/intro/bin/Debug/net8.0/intro.deps.json
+/Users/konstantin/ComputerScience/Projects/ConsoleAppTest/intro/bin/Debug/net8.0/intro.runtimeconfig.json
+/Users/konstantin/ComputerScience/Projects/ConsoleAppTest/intro/bin/Debug/net8.0/intro.dll
+/Users/konstantin/ComputerScience/Projects/ConsoleAppTest/intro/bin/Debug/net8.0/intro.pdb
+/Users/konstantin/ComputerScience/Projects/ConsoleAppTest/intro/obj/Debug/net8.0/intro.GeneratedMSBuildEditorConfig.editorconfig
+/Users/konstantin/ComputerScience/Projects/ConsoleAppTest/intro/obj/Debug/net8.0/intro.AssemblyInfoInputs.cache
+/Users/konstantin/ComputerScience/Projects/ConsoleAppTest/intro/obj/Debug/net8.0/intro.AssemblyInfo.cs
+/Users/konstantin/ComputerScience/Projects/ConsoleAppTest/intro/obj/Debug/net8.0/intro.csproj.CoreCompileInputs.cache
+/Users/konstantin/ComputerScience/Projects/ConsoleAppTest/intro/obj/Debug/net8.0/intro.dll
+/Users/konstantin/ComputerScience/Projects/ConsoleAppTest/intro/obj/Debug/net8.0/refint/intro.dll
+/Users/konstantin/ComputerScience/Projects/ConsoleAppTest/intro/obj/Debug/net8.0/intro.pdb
+/Users/konstantin/ComputerScience/Projects/ConsoleAppTest/intro/obj/Debug/net8.0/intro.genruntimeconfig.cache
+/Users/konstantin/ComputerScience/Projects/ConsoleAppTest/intro/obj/Debug/net8.0/ref/intro.dll
